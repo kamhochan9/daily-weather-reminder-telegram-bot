@@ -1,0 +1,14 @@
+{
+    "rain" : {
+        "en" : "It's rainy today! Remember to bring an umbrella"
+    },
+    "cold" : {
+        "en" : "It's cold today! Remember to put enough clothes 🧥"
+    },
+    "hot" : {
+        "en" : "It's pretty hot today. Remeber to stay hydrated"
+    },
+    "warnings" : {
+        "en" : "Special weather warnings: "
+    }
+}
