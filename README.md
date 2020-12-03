@@ -11,13 +11,13 @@ This is a telegram bot that can send daily weather reminders to users at designa
 
 ## ENV
 - WEATHER_REPORT_API
-[API of Hong Kong weather report](https://data.weather.gov.hk/weatherAPI/opendata/weather.php)
+  - [API of Hong Kong weather report](https://data.weather.gov.hk/weatherAPI/opendata/weather.php)
 - COLD_TEMPERATURE
-Temperature to trigger cold reminder 
+  - Temperature to trigger cold reminder 
 - HOT_TEMPERATURE
-Temperature to trigger hot reminder
+  - Temperature to trigger hot reminder
 - TELEGRAM_TOKEN
-Telegram bot token
+  - Telegram bot token
 
 ## Notices
 For the information of the api, please refer to [this API documentation](https://data.weather.gov.hk/weatherAPI/doc/HKO_Open_Data_API_Documentation.pdf)
